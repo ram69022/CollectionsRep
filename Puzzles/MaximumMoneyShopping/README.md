@@ -5,16 +5,16 @@ The problem is that he is good with his cloth choices but not with the calculati
 Rakesh has selected T t-shirts and J jeans. He provides you the prices of each of them and you have to determine the maximum money he can spend shopping. 
 If it is not possible to buy the jeans and t-shirt with the given budget, you can tell him -1.
 
-Example:
+Example1:
 
-1. 
 Budget, B = 20
 Jeans, Ji = [10,5,8]
 T-shirts, Ti = [11,7,4]
 
 The maximum money he can spend is 19 by buying the J3 jeans along with the T1 t-shirt.
 
-2.
+Example2:
+
 Budget, B = 10
 Jeans, Ji = [8,9,10]
 T-shirt, Ti = [4,6,3]
