@@ -1,7 +1,9 @@
 
 Sum of minimum absolute difference
 
-Program to find the sum of minimum absolute difference of the array is discussed here. An array of distinct elements is given as input and the sum of minimum absolute difference of each array element has to be found.
+Program to find the sum of minimum absolute difference of the array. 
+An array of elements is given as input and the sum of minimum absolute difference of each array element has to be found.
+
 Example:
 
 Input
