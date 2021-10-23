@@ -24,7 +24,7 @@ class Solution {
         
         return revX;
     }
-    /*
+    */
     public int reverse(int x) {        
         long revx = 0;
         while(x!=0){
