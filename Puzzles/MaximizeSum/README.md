@@ -13,18 +13,26 @@ For each test case(in a separate line), print the maximum sum you can obtain by 
 If you cannot choose any element, output 0.
 
 Constraints:
+
 1<=T<=1000
+
 1<=K<=N<=5 x 10^5
+
 -10^9 <= A <=10^9
 
 2
+
 4 1
+
 3 -1 2 5
+
 4 2
+
 2 1 2 5
 
 Output 
 
 5
+
 9
 
