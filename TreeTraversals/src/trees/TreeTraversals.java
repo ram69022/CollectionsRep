@@ -19,15 +19,15 @@ public class TreeTraversals {
 		if(node==null)
 			return;
 		System.out.print(node.data);
-		displayInorder(node.left);
-		displayInorder(node.right);
+		displayPreorder(node.left);
+		displayPreorder(node.right);
 	}
 	
 	public void displayPostorder(Node node){
 		if(node==null)
 			return;
-		displayInorder(node.left);
-		displayInorder(node.right);
+		displayPostorder(node.left);
+		displayPostorder(node.right);
 		System.out.print(node.data);
 	}
 	
